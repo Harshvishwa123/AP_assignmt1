@@ -1,0 +1,14 @@
+After running the code,
+you will get options to do various functions.
+YOU WILL HAVE TO SELECT THE DESIRABLE OPTION BY TYPING THE NUMBER ONLY AND THE PRESS ENTER.
+If you enter any invalid number, it will simply again give you the available options.
+If you want to stop the code, just simply press 3 for exit.
+When entering input, you just have to enter the string value (eg. name,book title) without and brackets/commas, same with the interger values also.
+For phone number, you can input any long integer but you have to remember it otherwise you won't be able to enter as a member or remove any member.
+MemberID and BookID will be issued by the code, you don't have to assign any special number.
+If you remove any member or book, new ID's will be generated for the existing entries.
+If you want to go back, you just have to enter the integer that refer to back.
+If you select option 5 of enter as a librarian, without it having fine, it will return nothing.
+If the output is results nothing, it means it does not have anything in the desirable product.(eg.list books,my books).
+After issuing a book, if there is any fine , then you will have to pay it first if you want to issue another book.
+For paying fine, you have to enter member name,amount to be paid.
