@@ -1,13 +1,8 @@
-🔗 [More info about Project](https://claude.ai/public/artifacts/df1f1c5b-c7cb-4d62-8017-b9aa152083a7)
+
 
 # 📚 LibraryVault - Modern Library Management System
 🔗 [Project Overview](https://claude.ai/public/artifacts/df1f1c5b-c7cb-4d62-8017-b9aa152083a7)
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License">
-  <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg?style=for-the-badge" alt="Version">
-  <img src="https://img.shields.io/badge/Status-Active-success.svg?style=for-the-badge" alt="Status">
-</div>
+
 
 <div align="center">
   <h3>🎯 A comprehensive library management system built with Java</h3>
