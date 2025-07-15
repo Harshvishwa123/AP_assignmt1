@@ -201,93 +201,12 @@ graph TD
 
 ---
 
-## 🤝 Contributing
 
-We welcome contributions from the community! Here's how you can help:
 
-1. **Fork the repository**
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/amazing-feature
-   ```
-3. **Commit your changes**
-   ```bash
-   git commit -m 'Add some amazing feature'
-   ```
-4. **Push to the branch**
-   ```bash
-   git push origin feature/amazing-feature
-   ```
-5. **Open a Pull Request**
 
-### Contribution Guidelines
-- Follow Java naming conventions
-- Add comments for complex logic
-- Update documentation for new features
-- Test your changes thoroughly
 
----
 
-## 📸 Screenshots
 
-<div align="center">
-  <img src="docs/screenshots/main-menu.png" alt="Main Menu" width="45%">
-  <img src="docs/screenshots/librarian-portal.png" alt="Librarian Portal" width="45%">
-</div>
-
-<div align="center">
-  <img src="docs/screenshots/member-portal.png" alt="Member Portal" width="45%">
-  <img src="docs/screenshots/book-management.png" alt="Book Management" width="45%">
-</div>
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2025 LibraryVault
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-```
-
----
-
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
----
-
-## 🙏 Acknowledgments
-
-- Thanks to the Java community for excellent documentation
-- Inspired by modern library management needs
-- Built with passion for efficient library operations
-
----
-
-## 📊 Project Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
-</div>
-
----
 
 <div align="center">
   <h3>⭐ Star this repository if you found it helpful!</h3>
